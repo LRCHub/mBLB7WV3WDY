@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "토마토 트라우마",
+  "base_artist": "OSUM",
+  "createdAt": "2026-03-31T03:26:03.348921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "토마토 트라우마",
+      "artist": "OSUM",
+      "has_synced": false,
+      "path": "select/01_토마토_트라우마_OSUM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "토마토 트라우마",
+      "artist": "오썸",
+      "has_synced": true,
+      "path": "select/02_토마토_트라우마_오썸.lrc"
+    }
+  ]
+}
